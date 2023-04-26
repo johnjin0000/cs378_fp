@@ -1,0 +1,153 @@
+premise,hypothesis,label
+A person on a horse jumps over a broken down airplane.,"A person is indoors, on a horse.","contradiction
+"
+Adults smiling and waving at camera,There are children present,"contradiction
+"
+An older man is drinking orange juice at a restaurant.,A man in a restaurant is drinking a beverage.,entailment
+A car sinking in water.,A white car is flooding.,neutral
+A man bending to pick something up he dropped.,A man dropped something and is picking it up.,entailment
+"A man with blond-hair, and a brown shirt drinking out of a public water fountain.",A dark haired man drinking water from a fountain.,contradiction
+a kid doing tricks on a skateboard on a bridge,a kid is on a bridge,entailment
+Three small puppies bite and play together in the grass.,They are playing at the kitchen.,contradiction
+a kid doing tricks on a skateboard on a bridge,a kid is running,contradiction
+"Two women, holding food carryout containers, argue.","The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags.",contradiction
+A man is surfing in a bodysuit in beautiful blue water.,A man in a bodysuit is surfing,entailment
+A group of four kids stand in front of a statue of a large animal.,three kids standing,contradiction
+A Little League team tries to catch a runner sliding into a base in an afternoon game.,A team is trying to score the games winning homerun.,contradiction
+A Little League team tries to catch a runner sliding into a base in an afternoon game.,A team is trying to tag a runner out to win the game.,neutral
+A girl is playing with toys inside of a tub of water.,A girl is in a tub.,entailment
+The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.,A school hosts a special event about cultures.,entailment
+Four dirty and barefooted children.,four kids won awards for 'dirtiest feet',neutral
+A man in a yellow shirt is reading a book.,A man is reading.,entailment
+A man unlocks a blue garage door.,A man unlocks a garage door to his girlfriend's house.,neutral
+A woman wearing a green and pink dress is dancing with someone wearing a blue top with white pants.,The woman in blue and pink is dancing.,contradiction
+Two women with purses walk in an urban location.,Two women are sitting outside.,contradiction
+A man appears to be closing a gate next to a nail-gloss ad.,A man is opening his gate after parking his car,contradiction
+A man in a blue shirt locks a blue shutter next to a nail polish advertisement.,The man is not wearing cloths.,contradiction
+A girl in a black t-shirt laughs at a man in a black t-shirt who is telling a story.,She tells a story about his childhood,contradiction
+"A woman holds a yellow stick and pokes the tarp over a floral display during a rainstorm, releasing large quantities of water to the ground.",the woman is standing in the sun.,contradiction
+Group of children playing soccer with body of water in the background.,The children are happy.,neutral
+Young riders on an amusement park ride.,Young Children not doing their homework,entailment
+An adult couple enjoys time in a hot tub.,A couple is eating in a hot tub.,neutral
+A street vendor in Asia tries to bring in more customers.,A vendor in china is trying to attract costumers.,neutral
+Group of people dancing,people are sleeping with one another during a religious ritual,contradiction
+A woman in a blue shirt is sitting at a table and looking at her cellphone.,a woman looking at her cellphone,entailment
+A group of people point forwards while performing some kind of act.,A group of people point forwards while jumping.,neutral
+Several people are dancing together in sync.,people are resting.,contradiction
+"A young man in a red quilted vest displays an assortment of silver pendants around his neck as he watches a woman in a yellow bikini top, a black jacket, and bright pink fingerless gloves go by.",There is jewelry.,entailment
+Girl is blowing to a butterfly.,The girl blows on a butterfly.,entailment
+A dog in the water carries a stick in his mouth.,A dog is going for a swim in the park.,neutral
+"Two girls, each in a dress walking together.",Two girls walk with each other.,entailment
+An elderly couple dances next to a table where a boy is sitting with his head down.,A young man has his hands on the table.,neutral
+Biker riding dirt bike on dirt track,Human rides four wheeled vehicle.,contradiction
+A small girl stands among many large watermelons.,There is a tall girl standing,contradiction
+A mother with her four children.,A woman with children playing.,neutral
+A man in a Tour De Force shirt is working on a bicycle.,A man is working on a black bike.,neutral
+A pirate is chasing a princess down the sidewalk.,Pirate chasing a bowser cosplayer,contradiction
+A man in a green coat pulls a red suitcase behind him.,The man in a coat has a suitcase of clothes.,neutral
+A man wearing a red shirt and safety hat works on construction.,A woman works on something construction related in a hat and shirt.,contradiction
+A woman in a blue helmet and red pants riding a motorcycle.,A woman is riding a car on a racetrack.,contradiction
+Man enjoys food at family style eatery.,A white man is in a restaurant.,neutral
+Two friends are eating beef at a dinner table gathering.,They are not friends.,contradiction
+A man in a maroon hooded sweatshirt plays with his phone after finishing a meal and some beers at a restaurant.,man on smartphone,neutral
+A young girl trying on boots.,A human is trying on hats.,contradiction
+A toddler rides a plastic vehicle while another watches in the background.,Two toddlers are present.,entailment
+Several Asian men wearing black clothing in some kind of station.,several men are in a station,entailment
+A child is in a pool wearing shark goggles.,A boy is wearing goggles in water.,neutral
+A dog emerges form the water with a stick in its mouth.,The dog has a stick.,entailment
+Many Asian people waiting at a train stop.,A group of asian people are waiting for the train.,entailment
+A woman wearing a blue and white striped shirt is standing at a bar.,the woman is at a bar,entailment
+"An black man, walks past political graffiti on the side of a building.",A man walks past graffiti about politics.,entailment
+A man walks in front of a wall with a painting.,A man walking by a wall.,entailment
+A man in a black jacket walks past some graffiti.,A man runs by some graffiti.,contradiction
+a man in camouflage is making a announcement on a radio,A man talks on tv.,contradiction
+A man rides in an orange kayak on white water rapids.,There is a man riding a kayak,entailment
+A man kayaking in white water.,a black man is kayaking,neutral
+A man walking in front of graffiti on a cloudy day.,There is graffiti behind the short man.,neutral
+BMX biker jumps over a ravine.,ravine jumping is too easy,contradiction
+One of the many volleyball players in the tournament.,There is a local volleyball tournament.,neutral
+A man wearing a winter jacket is taking a picture.,A man in a jacket takes a great photograph.,neutral
+Race car driver getting ready for the start of the race.,A man is going to win a lottery.,contradiction
+A woman in a blue dress and a man in a suit walk down the aisle together at a wedding ceremony.,The woman and man are smiling.,neutral
+A man in a green shirt and white pants has just pitched a baseball.,A man threw a baseball fast.,neutral
+Boy playing the pokemon card game in his pajamas.,A dice game in PJs,contradiction
+A bearded man with glasses does a toe-touch.,A woman is trying to stay fit.,contradiction
+Jewish family drinking red wine.,A family is drinking wine at dinner.,neutral
+A man in a blue shirt gesticulates as he speaks to a uniformed official.,A man keeps his arms gesturing as he talks with his friend.,entailment
+A little black dog and a large brown dog are out in the snow.,Two dogs are playing in the snow.,neutral
+A person walking up the stairs.,The person is taking the stairs.,entailment
+Toddler with milk around his mouth.,A child has milk on himself.,entailment
+Women standing around a clipboard.,A group stands together surrounding a phone.,contradiction
+A man in a black shirt playing guitar in a band.,A man is playing a red guitar.,neutral
+Girls do martial arts on a red mat.,Girls participate in martial arts.,entailment
+A man looks down toward the ground.,A man is looking for a lost balloon.,contradiction
+A man walking along a road next to a blue building and red stop sign.,The man is running at the stop sign.,contradiction
+"A man dressed in black, with full cheeks, is blowing into an instrument.","There is one man in this picture, and he is playing beutiful music.",neutral
+A black-haired man dressed in black is blowing into an object while situated next to someone in pink.,The person with the pink hair is a woman.,entailment
+two guys jamming at a local bar.,Two guys play music while drunk.,neutral
+"Brown dog in water, with orange and blue ball in mouth.",The dog is carrying a ball.,entailment
+A man walking by a stop sign.,A man walking outdoors in the cold,neutral
+The man wearing a hat and headset is taking a photo.,A man is taking a photo of birds.,neutral
+Man in vertical striped shirt crosses street.,A man crosses the river.,contradiction
+A man stands on a sidewalk between a grass lawn and building,There is a man standing proudly.,neutral
+People stand by a rocky cliff with water below.,People are indoors.,contradiction
+A person in a yellow coat carrying a plastic bag of orange colored fruit.,They are carrying food.,entailment
+People gather around a lantern to look at a colored mat in the sand.,People are looking at the lantern.,entailment
+a female holding a blanket.,A woman folds a blanket.,neutral
+"A dozen Asian men are sitting and standing in a group, they are dressed casually and are looking at something on the ground.",a group of people stand in a group looking at something at the park,neutral
+"A man with an umbrella, tan coat, and hat sits in the middle of a crowd holding his umbrella above his head and spraying a woman walking past him with a water bottle.",A man holds an umbrella and splashes a woman with dirty water.,neutral
+A Hispanic woman is presenting her fabric design.,A Hispanic woman is burning her designs.,contradiction
+A boy in red pants runs through a crowded transportation hub.,there is a boy in red pant is strolling trying to catch the bus,contradiction
+A young man doing some sort of work.,Young man doing some work at a cafe,neutral
+People at work landscaping an area.,People are working in the heat outside.,neutral
+A long-haired man plays an acoustic guitar while holding a pen.,A long haired man plays the guitar on the side of the road.,neutral
+three bikers stop in town.,bikers stop in town,entailment
+A small girl in a pool with a necklace is swimming.,A small girl with a necklace is swimming in a pool,entailment
+"A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization ""Save the Children.""",A couple carrying children are walking along water.,contradiction
+Group of young women in dresses strolling on the sidewalk.,all the women are in dresses,entailment
+Two people loading something on a trailer attached to a truck.,A couple of people are loading brush onto a trailer that is attached to a truck.,neutral
+"A family with a baby, the father is wearing a save the children sign.",A man is wearing something with no writing on it.,contradiction
+A foreign family is riding bikes along a dirt path next to the water.,they are riding a bike,entailment
+A fat girl with a necklace is swimming.,A small girl with a necklace is in the water,contradiction
+Young blond woman putting her foot into a water fountain,A attractive person is dipping her foot into water.,neutral
+A man in an elf hat holding a white umbrella is standing on the sidewalk with two other men.,A man stands on the street.,contradiction
+A young man doing a trick on a skateboard down the stairs while being photographed.,A teenager being photographed while he does a trick on his skateboard down the stairs.,neutral
+Man in gold pants looking at the camera.,Man inspecting the camera.,entailment
+A young girl sitting at a table with a bowl on her head,A young girl has a blue bowl on her head,neutral
+Indian lady and a guy in a blue suit dancing in the sunlight.,Two people dancing outdoors in the shade.,contradiction
+"A crowded street, in an Asian country, where the buildings are dominated by the Seiko building.",A crowded street in Asia has buildings.,entailment
+"A bull machine rider in a red shirt, black vest, and jeans rides a brown and white bull while onlookers watch from behind a green fence.",A person is riding an animal in front of a crowd.,contradiction
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",a bearded man releases a rope,contradiction
+A car gets ticketed for a parking violation.,The car is parked in the right place,contradiction
+A baby is playing with a strand of beads.,The baby is awake.,entailment
+A boy wearing a yellow jacket is pouring something from a red pot into a orange tube while other children look on.,The boy is wearing a shirt.,neutral
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",People standing near sculptures of people,entailment
+A baseball player is putting all his might in to throwing a ball.,The player tossed the ball,entailment
+A kickboxer practicing on the heavy bag.,A kickboxer is resting.,contradiction
+Two small girls are walking in a field and one of them has a stone in her hands.,The people aren't inside.,entailment
+A girl making a face jumps in front of a scenic view of mountains and water.,The girls is near a mountain.,entailment
+The blond girl is holding something from a plant.,The blond girl is next to a flower,neutral
+Three painters in white clothing painting a corrugated metal wall.,Painters are painting a sturdy wall.,neutral
+A policeman is riding a motorcycle.,The policeman rides his vehicle.,entailment
+Someone wearing pink sandals is walking on hopscotch numbers.,A grown man wearing pink sandals plays hopscotch.,neutral
+"Two kids, a boy and a girl, are playing with a train set.",Two siblings are having fun.,neutral
+dogs resting,Dogs are sitting and not moving.,entailment
+A hooded individual with an orange scarf and face covering uses a small knife to sculpt a piece of ice.,a human who is hooded and wearing an orange scarf cuts ice into a large sculpture,entailment
+A spotted black and white dog splashes in the water.,the dog is drowning in the water,neutral
+A unhappy woman holding a boombox.,A sad woman holding a boombox.,entailment
+two alaskan kids exploring a homemade igloo while a snowman watches.,Two children play in an igloo in Alaska with a snowman outside.,entailment
+"A guy is running down the field holding a football while his teammate, an opponent, and referee run behind him.",The group of men are playing a game.,entailment
+Group of children playing pin the tail on the donkey at a relay.,There are little boys playing.,neutral
+a man is working on the roof of a building.,A shirtless man is on a roof.,neutral
+A girl dismounts from a swing as high as she can and lands on the rubber tiles below.,A girl lands on metal tiles.,contradiction
+Two Chinese people stop for a refreshing drink at the mall.,A ton of people are at the mall.,neutral
+A dog running through the woods.,A dog running quickly.,neutral
+A young man poses with a stick and looks at the camera.,The stick is near the man,entailment
+Four muzzled black and white dogs racing over a jump.,Four puppies fight in the backyard.,contradiction
+A small brass band performs on stage for a large audience with a department flag on one side of the stage and an America flag on the other side.,The flag is USA.,entailment
+A young lad dressed in black shorts and light blue shirt sitting outside at a public table looking at a picture on her camera with her left hand on her face.,A lady at a table takes pictures.,contradiction
+The boy is hanging out near the yellow cab.,A boy hangs out of a cab window.,contradiction
+A little boy wearing shorts and a jacket is pulling a red wagon with a pumpkin in it.,A teenager is pulling a wagon.,contradiction
+Four people in life jackets float on a raft.,Fourteen people are engaging in water sports.,contradiction
+A boy on a bike descends a half pipe.,The boy rides down the half-pipe at the park.,neutral
+A dark-haired gentleman with a mustache and wearing a sweater is simultaneously pressing buttons on an old-fashioned computer monitor and the keyboard.,A man uses a fashionable computer.,neutral
