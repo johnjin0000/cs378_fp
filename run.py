@@ -53,7 +53,7 @@ def main():
     if args.dataset.endswith('.json') or args.dataset.endswith('.jsonl'):
         dataset_id = None
         # Load from local json/jsonl file
-        dataset = datasets.load_dataset('json', data_files=args.dataset, field="data)
+        dataset = datasets.load_dataset('json', data_files=args.dataset, field="data")
         # By default, the "json" dataset loader places all examples in the train split,
         # so if we want to use a jsonl file for evaluation we need to get the "train" split
         # from the loaded dataset
